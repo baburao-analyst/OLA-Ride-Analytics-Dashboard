@@ -15,6 +15,10 @@
 
 </div>
 
+<p align="center">
+  <img src="Assets/Overall Dashboard.png" width="100%">
+</p>
+
 ---
 
 # 📌 Project Overview
