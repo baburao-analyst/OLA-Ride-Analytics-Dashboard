@@ -50,11 +50,15 @@ The dashboard transforms raw ride booking data into meaningful business insights
 
 # 📊 Dashboard Pages
 
-## 🟢 1. Executive Performance Dashboard
+## 📊 1. Executive Performance Dashboard
 
 <img src="Assets/Overall Dashboard.png" width="100%">
 
-### KPIs
+### Overview
+
+The Executive Performance Dashboard provides a high-level overview of OLA's business performance by consolidating key operational and financial metrics into a single interactive view. It enables stakeholders to monitor booking activity, revenue generation, customer satisfaction, and ride performance while identifying overall business trends.
+
+### Key Metrics
 
 - Total Bookings
 - Total Revenue
@@ -62,13 +66,13 @@ The dashboard transforms raw ride booking data into meaningful business insights
 - Average Ride Distance
 - Average Customer Rating
 
-### Visuals
+### Business Insights
 
-- Revenue Over Time
-- Average Customer Rating Trend
-- Rides by Vehicle Type
-- Revenue by Vehicle Type
-- Top Revenue Generating Locations
+- Monitor overall business performance through executive KPIs.
+- Track revenue trends to identify peak and low-performing periods.
+- Analyze ride distribution across different vehicle categories.
+- Identify top revenue-generating locations for strategic planning.
+- Monitor customer satisfaction trends using average rating analysis.
 
 ---
 
